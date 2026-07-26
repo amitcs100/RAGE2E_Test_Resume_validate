@@ -1,0 +1,9 @@
+streamlit>=1.40,<2
+langchain-core>=0.3,<2
+langchain-community>=0.3,<2
+langchain-openai>=0.3,<2
+langchain-text-splitters>=0.3,<2
+faiss-cpu>=1.8
+pypdf>=5
+docx2txt>=0.8
+python-dotenv>=1
