@@ -1,0 +1,1 @@
+# RAGE2E_Test_Resume_validate
